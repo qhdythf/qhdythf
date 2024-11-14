@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/delphi-%#E62431.svg?style=for-the-badge&logo=delphi&logoColor=white" />&nbsp
+  <img src="https://unpkg.com/simple-icons@v13/icons/delphi.svg?style=for-the-badge&logo=delphi&logoColor=white" />&nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />&nbsp  
