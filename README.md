@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-    <img src="https://img.shields.io/badge/shadcnui-%2338B2AC.svg?style=for-the-badge&logo=shadcnui&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/shadcnui-white.svg?style=for-the-badge&logo=shadcnui&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
 </div>  
 <div align="center">  
