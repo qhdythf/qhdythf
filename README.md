@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <div style="display:flex;flex-direction:column;">
+  <div style="display:flex;flex-direction:row;">
     <img height="25" width="25" src="https://unpkg.com/simple-icons@v13/icons/delphi.svg" />
     <div style="margin: auto;">Delphi</div>
   </div>
