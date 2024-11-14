@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/vuejs-20232a.svg?style=for-the-badge&logo=vuejs&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhdythf&layout=compact)
