@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <div style="display:flex;">
     <img height="25" width="25" src="https://unpkg.com/simple-icons@v13/icons/delphi.svg" />
-    <div style="display:flex; margin: auto;">Delphi</div>
+    <div style="margin: auto;">Delphi</div>
   </div>
   &nbsp
 </div>
