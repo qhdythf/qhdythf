@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20delphi&logoColor=0078D4" />&nbsp
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhdythf&layout=compact)
