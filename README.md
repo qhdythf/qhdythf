@@ -53,4 +53,4 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qhdythf&show_icons=true&theme=radical&locale=kr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhdythf&locale=kr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhdythf&locale=kr?count_private=true)
