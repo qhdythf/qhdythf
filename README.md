@@ -21,7 +21,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img height="25" width="25" src="https://unpkg.com/simple-icons@v13/icons/delphi.svg" /><div style="display:flex; margin: auto;">Delphi</div>&nbsp
+  <div style="display:flex;">
+    <img height="25" width="25" src="https://unpkg.com/simple-icons@v13/icons/delphi.svg" />
+    <div style="display:flex; margin: auto;">Delphi</div>
+  </div>
+  &nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />&nbsp  
