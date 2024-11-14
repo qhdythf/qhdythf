@@ -18,14 +18,15 @@
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />&nbsp
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <div style="display:flex;">
-    <img height="20" src="https://cdn.simpleicons.org/delphi?viewbox=auto" />
-    <span style="display:flex; margin: auto;">Delphi</span>
+<div style="display:flex;">
+  <div style="margin:auto">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
+    <div style="display:flex;">
+      <img height="20" src="https://cdn.simpleicons.org/delphi?viewbox=auto" />
+      <span style="display:flex; margin: auto;">Delphi</span>
+    </div>&nbsp
   </div>
-  &nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />&nbsp  
