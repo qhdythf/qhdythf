@@ -21,9 +21,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <div style="display:flex; float:left;">
+  <div style="display:flex;">
     <img height="20" src="https://cdn.simpleicons.org/delphi?viewbox=auto" />
-    <span>Delphi</span>
+    <span style="display:flex; margin: auto;">Delphi</span>
   </div>
   &nbsp
 </div>
