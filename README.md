@@ -51,4 +51,5 @@
   <img src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />&nbsp
 </div>
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qhdythf&layout=compact)
